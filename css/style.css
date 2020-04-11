@@ -1,0 +1,13 @@
+header h1{
+
+    margin: 20px;
+}
+header .container1{
+    width: 50%;
+    text-align: center;
+    background-color:darkgray;
+}
+header p{
+    margin: auto;
+
+}
